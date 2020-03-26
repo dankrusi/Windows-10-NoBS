@@ -26,7 +26,7 @@ $apps = @(
     "Microsoft.MicrosoftSolitaireCollection"
     "Microsoft.MicrosoftStickyNotes"
     "Microsoft.MinecraftUWP"
-    "Microsoft.NetworkSpeedTest"
+    #"Microsoft.NetworkSpeedTest"
     "Microsoft.Office.OneNote"
     "Microsoft.OneConnect"
     "Microsoft.People"
@@ -34,13 +34,13 @@ $apps = @(
     "Microsoft.SkypeApp"
     "Microsoft.Wallet"
     #"Microsoft.Windows.Photos"
-    "Microsoft.WindowsAlarms"
+    #"Microsoft.WindowsAlarms"
     #"Microsoft.WindowsCalculator"
     #"Microsoft.WindowsCamera"
     "microsoft.windowscommunicationsapps"
     "Microsoft.WindowsMaps"
     "Microsoft.WindowsPhone"
-    "Microsoft.WindowsSoundRecorder"
+    #"Microsoft.WindowsSoundRecorder"
     #"Microsoft.WindowsStore"   # can't be re-installed
     "Microsoft.Xbox.TCUI"
     "Microsoft.XboxApp"
@@ -56,7 +56,7 @@ $apps = @(
     "Microsoft.ConnectivityStore"
     "Microsoft.GetHelp"
     "Microsoft.Getstarted"
-    "Microsoft.Messaging"
+    #"Microsoft.Messaging"
     "Microsoft.Office.Sway"
     "Microsoft.OneConnect"
     "Microsoft.WindowsFeedbackHub"
@@ -73,7 +73,7 @@ $apps = @(
 
     # Redstone 5 apps
     "Microsoft.MixedReality.Portal"
-    "Microsoft.ScreenSketch"
+    #"Microsoft.ScreenSketch"
     "Microsoft.XboxGamingOverlay"
     "Microsoft.YourPhone"
 
